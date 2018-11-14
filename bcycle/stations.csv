@@ -1,0 +1,89 @@
+lon,lat,address,name,station_id
+-104.95253,39.72055,299 Milwaukee St,3rd & Milwaukee,bcycle_denver_1646
+-104.97279,39.73078,920 Downing St,9th & Downing,bcycle_denver_1647
+-104.98772,39.73395,1085 Broadway St.,11th & Broadway,bcycle_denver_1648
+-104.98863,39.74064,101 West Colfax Avenue,15th & Cleveland,bcycle_denver_1654
+-105.01042,39.75934,1615 Boulder St,16th & Boulder,bcycle_denver_1658
+-104.98686,39.74184,1600 Broadway,16th & Broadway,bcycle_denver_1659
+-105.00488,39.75524,1600 Little Raven St.,16th & Little Raven,bcycle_denver_1660
+-105.00781,39.75723,1601 Platte St,16th & Platte,bcycle_denver_1661
+-104.99339,39.74767,950 17th St,17th & Curtis,bcycle_denver_1662
+-104.99604,39.74984,1260 17th St.,17th & Larimer,bcycle_denver_1663
+-104.995,39.75259,1899 Market St.,19th & Market,bcycle_denver_1666
+-104.97954,39.7461,600 E. 19th Ave,19th & Pearl,bcycle_denver_1667
+-104.99078,39.75559,2200 Market St,22nd & Market,bcycle_denver_1669
+-104.9855,39.75686,2501 Lawrence St,25th & Lawrence,bcycle_denver_1670
+-104.98308,39.76042,2751 Larimer St.,28th & Larimer,bcycle_denver_1671
+-104.98736,39.75822,2490 N. Broadway St,Broadway & Walnut,bcycle_denver_1674
+-104.95218,39.71504,2900 Cherry Creek N Drive,Cherry Creek Mall,bcycle_denver_1676
+-104.99212,39.72766,790 Delaware Street,Denver Health,bcycle_denver_1678
+-105.00843,39.74769,1000 Chopper Circle,Pepsi Center,bcycle_denver_1688
+-105.00865,39.75518,1416 Platte St,REI,bcycle_denver_1689
+-104.99019,39.74044,201 W. Colfax,Webb Building,bcycle_denver_1691
+-104.99107,39.74329,1550 Glenarm,1550 Glenarm,bcycle_denver_1692
+-104.99391,39.74267,700 14th St. ,14th & Welton,bcycle_denver_1747
+-104.97829,39.75514,615 27th St.,Five Points,bcycle_denver_1749
+-104.98073,39.74956,370 Park Avenue West,Park Ave West & Tremont ,bcycle_denver_1750
+-105.00349,39.75268,1515 Delgany St.,15th & Delgany,bcycle_denver_1753
+-104.95989,39.73258,1051 York St.,Denver Botanic Gardens,bcycle_denver_1754
+-104.9887,39.73713,10 W 14th Avenue Pkwy,Denver Public Library ,bcycle_denver_1758
+-105.00029,39.74684,1350 Larimer St.,1350 Larimer,bcycle_denver_1760
+-104.98373,39.72778,721 Grant St.,7th & Grant,bcycle_denver_1766
+-104.98469,39.7358,1200 Sherman St.,12th & Sherman,bcycle_denver_1789
+-105.01235,39.74283,318 Walnut St,4th & Walnut,bcycle_denver_1798
+-105.00165,39.74997,1450 Wazee St,1450 Wazee,bcycle_denver_1799
+-104.96851,39.74729,2045 Franklin St.,2045 Franklin,bcycle_denver_1800
+-104.99003,39.747,1701 California St.,18th & California,bcycle_denver_1810
+-104.98495,39.74191,1612 Sherman St.,16th & Sherman,bcycle_denver_1811
+-104.99395,39.73862,1404 Elati St.,14th & Elati,bcycle_denver_1829
+-104.97629,39.73361,900 E. 11th Ave,11th & Emerson,bcycle_denver_1927
+-105.00511,39.73205,1005 Osage St,10th & Osage,bcycle_denver_1937
+-104.96857,39.69284,1700 E. Louisiana Ave,Louisiana & Franklin,bcycle_denver_2064
+-104.99814,39.75176,1509 17th St.,17th & Blake,bcycle_denver_2066
+-104.9991,39.73058,923 W. 9th Ave,9th & Santa Fe,bcycle_denver_2068
+-105.00453,39.74233,899 Curtis St,9th & Curtis,bcycle_denver_2216
+-104.94379,39.74812,2001 Colorado Boulevard,Denver Museum of Nature & Science,bcycle_denver_2217
+-104.94933,39.75054,2300 Steele Street,Denver Zoo,bcycle_denver_2218
+-104.99567,39.74408,850 14th St.,14th & Stout,bcycle_denver_2298
+-104.98774,39.71825,99 Broadway St,1st & Broadway,bcycle_denver_2299
+-104.9812,39.71481,525 E. Bayaud Ave.,Bayaud & Pennsylvania,bcycle_denver_2300
+-104.97789,39.72569,745 E. 6th Ave,6th & Clarkson,bcycle_denver_2301
+-104.97514,39.73849,1425 Ogden St,14th & Ogden,bcycle_denver_2302
+-104.99592,39.74641,1505 Curtis St,15th & Curtis,bcycle_denver_2303
+-104.99819,39.75829,2095 Chestnut Place,20th & Chestnut,bcycle_denver_2304
+-105.02062,39.76192,3199 Clay St,32nd & Clay,bcycle_denver_2305
+-105.03236,39.76201,3199 Julian St,32nd & Julian,bcycle_denver_2306
+-104.96096,39.73983,1490 Gaylord St,Colfax & Gaylord,bcycle_denver_2307
+-104.95019,39.74055,1509 Steele St,Colfax & Steele,bcycle_denver_2308
+-104.97101,39.74078,1551 Lafayette St,1551 Lafayette,bcycle_denver_2309
+-104.97333,39.74307,1100 East 17th Ave,17th & Downing,bcycle_denver_2310
+-104.95728,39.73508,2504 East 12th Ave,12th & Columbine,bcycle_denver_2343
+-104.97191,39.73662,1279 Marion St,13th & Marion,bcycle_denver_2344
+-104.99674,39.73708,1301 Speer Blvd,13th & Speer,bcycle_denver_2345
+-104.98007,39.74336,523 East 17th Ave,17th & Pearl,bcycle_denver_2346
+-104.9634,39.74339,2001 East 17th Ave,17th & Race,bcycle_denver_2347
+-104.9931,39.74977,1099 18th St,18th & Arapahoe,bcycle_denver_2349
+-105.0206,39.75137,2301 Clay St,23rd & Clay,bcycle_denver_2350
+-104.98248,39.73027,899 Logan St,9th & Logan,bcycle_denver_2351
+-104.97678,39.71467,910 East Bayaud Ave,Bayaud & Emerson,bcycle_denver_2352
+-104.95801,39.7403,2451 East Colfax Ave,Colfax & Columbine,bcycle_denver_2353
+-104.9748,39.76392,3310 Arapahoe Street,33rd & Arapahoe,bcycle_denver_2378
+-104.94429,39.74052,1535 Garfield St.,Colfax & Garfield,bcycle_denver_2379
+-104.96855,39.74304,1550 E 17th Ave,17th & Franklin,bcycle_denver_2581
+-104.99302,39.73372,1095 Delaware St,11th & Delaware,bcycle_denver_2690
+-105.01662,39.7585,2417 W 29th Ave,29th & Zuni,bcycle_denver_2753
+-105.0061,39.76204,3200 Pecos St,32nd & Pecos,bcycle_denver_3048
+-105.02232,39.73811,2810 W Howard Pl.,Decatur Federal Light Rail,bcycle_denver_3127
+-104.99497,39.7712,3965 Fox St,39th & Fox,bcycle_denver_3263
+-104.97554,39.73361,990 E. 11th Ave. ,11th & Ogden,bcycle_denver_3384
+-105.00105,39.75387,1700 Wewatta St,17th & Wewatta,bcycle_denver_3395
+-104.97928,39.76185,3000 Lawrence St.,30th & Lawrence,bcycle_denver_3396
+-105.00373,39.75436,2051 16th St,16th & Chestnut,bcycle_denver_3397
+-104.99073,39.75324,2091 Lawrence St.,21st & Lawrence,bcycle_denver_3399
+-105.0006,39.75225,1651 Wynkoop St.,16th & Wynkoop,bcycle_denver_3432
+-104.99206,39.75425,1350 21st Street,21st & Market,bcycle_denver_3434
+-104.98952,39.74673,652 18th Street,18th & California Light Rail,bcycle_denver_3666
+-104.97985,39.73928,1450 Pearl St,Colfax & Pearl,bcycle_denver_3732
+-104.9871,39.76407,2890 Brighton Blvd.,29th & Brighton,bcycle_denver_3785
+-104.9848,39.72751,704 Sherman St,7th & Sherman,bcycle_denver_3788
+-105.01675,39.73909,1401 Zuni Street,Steam on the Platte,bcycle_denver_4202
