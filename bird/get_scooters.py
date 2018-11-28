@@ -1,5 +1,8 @@
 import requests
 import pandas as pd
+from os.path import isfile
+from os import listdir, getcwd
+from time import time
 
 url = 'https://api.bird.co/bird/nearby?latitude=39.751552&longitude=-105.002959&radius=10000'
 headers = {
@@ -27,5 +30,19 @@ for scoot in scooters:
         else:
             scoot_dict[k].append(v)
 
+csv = 'scoots.csv'
+csvs = []
+
+for file in listdir(f'{getcwd()}/last-mile-transportation/bird'):
+    if '.csv' in file:
+        csvs.append(file)
+
+if isfile(csv) and csv in csvs:
+    csv = f'scoots_{len(csvs)}.csv'
+
 df = pd.DataFrame(scoot_dict)
-df.to_csv('scoots.csv', index=False)
+df['datetime'] = time()
+df.to_csv(csv, index=False)
+
+# def save_scoots(csv):
+#     df, csv_loaded = (pd.read_csv(csv), 1) if isfile(csv) else ('', 0)
